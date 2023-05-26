@@ -1,0 +1,2 @@
+    CHEATSEET GIT GITHUB
+        git init: sirve para inicializar los repositorios
